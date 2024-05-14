@@ -1,8 +1,10 @@
 source 'https://rubygems.org'
 
 # gem "jekyll", github: "jekyll/jekyll"
-gem "jekyll", "~> 3.8.5"
+gem "jekyll"
+gem "kramdown-parser-gfm"
 gem "liquid-c"
+gem "webrick"
 
 group :jekyll_plugins do
   gem 'github-pages'
