@@ -1,8 +1,8 @@
 author: Gerhard
 description: (he/him)
 markdown: kramdown
-title: Ground Truth
-url: https://groundtruth.gerhardla.nz
+title: Te Araroa Southbound
+url: https://ta-sobo.gerhardla.nz
 
 plugins:
   - jekyll-commonmark
