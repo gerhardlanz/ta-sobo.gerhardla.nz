@@ -1,14 +1,14 @@
 source 'https://rubygems.org'
 
-# gem "jekyll", github: "jekyll/jekyll"
-gem "jekyll"
-gem "kramdown-parser-gfm"
+gem "jekyll", "~> 4.3.3"
 gem "liquid-c"
 gem "webrick"
 
 group :jekyll_plugins do
-  gem 'github-pages'
+  gem 'jekyll-commonmark'
+  gem 'faraday-retry'
   gem 'jekyll-feed'
   gem 'jekyll-readme-index'
   gem 'jekyll-sitemap'
+  gem 'jekyll-titles-from-headings'
 end

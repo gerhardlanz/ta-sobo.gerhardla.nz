@@ -5,10 +5,7 @@ permalink: /
 
 # Te Araroa Southbound <span style="color: rgb(241, 144, 41)">▼</span>
 
-→ [RSS](https://buttondown.email/gerhard/rss)
-→ [JSON](https://feed2json.org/convert?url=https%3A%2F%2Fbuttondown.email%2Fgerhard%2Frss)
-
-I'm [Gerhard Lanz](https://gerhardla.nz) and this is **Te Araroa Southbound**—a daily newsletter on walking [Te Araroa](https://www.teararoa.org.nz) (The Long Pathway) in New Zealand. Te Araroa Southbound is time-bound and will operate only while I am on the trail, after which it will be [archived](https://buttondown.email/gerhard/archive). All email addresses will be deleted upon completion. Welcome to the trail crew. ▼
+I'm [Gerhard Lanz](https://gerhardla.nz) and this is **Te Araroa Southbound**—a daily newsletter on walking [Te Araroa ↗](https://www.teararoa.org.nz) (The Long Pathway) in New Zealand. Te Araroa Southbound is time-bound and will operate only while I am on the trail, after which it will be [archived ↗](https://buttondown.email/gerhard/archive). All email addresses will be deleted upon completion. Welcome to the trail crew. ▼
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/gerhard"
@@ -16,11 +13,10 @@ I'm [Gerhard Lanz](https://gerhardla.nz) and this is **Te Araroa Southbound**—
   target="popupwindow"
   onsubmit="window.open('https://buttondown.email/gerhard', 'popupwindow')"
   class="embeddable-buttondown-form">
-  <label for="bd-email">Enter your email</label>
+  <label for="bd-email">Enter your email: </label>
   <input type="email" name="email" id="bd-email" />
   <input type="hidden" value="1" name="embed" />
   <input type="submit" value="Subscribe" />
-  <p>
-  <i>Powered by <a href="https://buttondown.email" target="_blank">Buttondown</a>.</i>
-  </p>
 </form>
+
+→ [RSS](https://buttondown.email/gerhard/rss)

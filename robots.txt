@@ -1,4 +1,4 @@
-Sitemap: https://ta-sobo.gerhardla.nz/sitemap.xml
+Sitemap: https://gerhardla.nz/sitemap.xml
 
 User-agent: *
 Disallow:
