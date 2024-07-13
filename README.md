@@ -20,5 +20,3 @@ I'm [Gerhard Lanz](https://gerhardla.nz) and this is **Te Araroa Southbound**—
   <input type="hidden" value="1" name="embed" />
   <input type="submit" value="Subscribe" />
 </form>
-
-→ [RSS](https://buttondown.email/gerhard/rss)

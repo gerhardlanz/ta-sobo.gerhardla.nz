@@ -14,3 +14,4 @@ plugins:
 markdown: CommonMark
 commonmark:
   options: ["smart", "unsafe", "hardbreaks"]
+  
