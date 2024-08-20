@@ -1,4 +1,4 @@
-title: Gerhard Lanz
+title: Gerhard
 markdown: CommonMark
 repository: gerhardlanz/ta-sobo
 url: https://ta-sobo.gerhardla.nz
@@ -7,7 +7,6 @@ permalink: /:title
 plugins:
   - jekyll-commonmark
   - jekyll-feed
-  - jekyll-readme-index
   - jekyll-sitemap
   - jekyll-titles-from-headings
 
