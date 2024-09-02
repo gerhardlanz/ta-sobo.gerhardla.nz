@@ -1,16 +1,11 @@
-title: Te Araroa Southbound · Gerhard
 markdown: CommonMark
-repository: gerhardlanz/ta-sobo
-url: https://ta-sobo.gerhardla.nz
 permalink: /:title
-
+title: Te Araroa Southbound
+    
 plugins:
-  - jekyll-commonmark
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-titles-from-headings
 
 markdown: CommonMark
 commonmark:
   options: ["smart", "unsafe", "hardbreaks"]
-  

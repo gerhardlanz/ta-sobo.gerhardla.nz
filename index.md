@@ -3,8 +3,6 @@ layout: default
 permalink: /
 ---
 
-<h1>Te Araroa Southbound</h1>
-
 <p>I'm <a href="https://gerhardla.nz">Gerhard</a> and this is <strong>Te Araroa Southbound</strong>—a daily newsletter on walking <a href="https://www.teararoa.org.nz">Te Araroa</a> (The Long Pathway) in New Zealand. Te Araroa Southbound is time-bound and will operate only while I am on the trail, after which it will be <a href="https://buttondown.email/gerhard/archive">archived</a>. All email addresses will be deleted upon completion. Welcome to the trail crew.</p>
 
 <form
