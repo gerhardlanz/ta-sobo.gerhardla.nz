@@ -106,15 +106,15 @@
 </head>
 
 <body>
-    <nav>
+    <nav aria-label="Website homepage">
         <a href="/"><img src="/icon.svg" alt="Orange equilateral triangle pointing downward" width="50" height="50"></a>
     </nav>
     <header>
         <br><h1>{% if page.permalink == '/' %}{{ site.title }}{{ page.title }}{% endif %}</h1>
     </header>
     <article>{{ content }}</article>
-    <footer>
-        <p><small>&copy; 2024 Gerhard · <a href="https://buttondown.com/Gerhard/rss">Feed</a> · <a href="https://github.com/gerhardlanz/ta-sobo">Source</a> · No tracking</small></p>
+    <footer aria-label="About this website">
+        <p><small>&copy; 2024 Gerhard · <a href="https://buttondown.com/gerhard/rss">Feed</a> · <a href="https://github.com/gerhardlanz/ta-sobo">Source</a> · No tracking</small></p>
         </p>
     </footer>
 </body>
