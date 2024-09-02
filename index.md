@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-<p>I'm <a href="https://gerhardla.nz">Gerhard</a> and this is <strong>Te Araroa Southbound</strong>—a daily newsletter on walking <a href="https://www.teararoa.org.nz">Te Araroa</a> (The Long Pathway) in New Zealand. Te Araroa Southbound is time-bound and will operate only while I am on the trail, after which it will be <a href="https://buttondown.email/gerhard/archive">archived</a>. All email addresses will be deleted upon completion. Welcome to the trail crew.</p>
+[I'm Gerhard](https://gerhardla.nz) and this is **Te Araroa Southbound**—a daily newsletter on walking [Te Araroa](https://www.teararoa.org.nz) (The Long Pathway) in New Zealand. Te Araroa Southbound is time-bound and will operate only while I am on the trail, after which it will be [archived](https://buttondown.email/gerhard/archive). All email addresses will be deleted upon completion. Welcome to the trail crew.
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/gerhard"
