@@ -11,7 +11,7 @@ permalink: /
   target="popupwindow"
   onsubmit="window.open('https://buttondown.email/gerhard','popupwindow')"
   class="embeddable-buttondown-form">
-  <label for="bd-email">Enter your email: </label>
+  <label for="bd-email"><small>Enter your email</small> </label>
   <input type="email" name="email" id="bd-email" />
   <input type="hidden" value="1" name="embed" />
   <input type="submit" value="Subscribe" />
