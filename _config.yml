@@ -3,7 +3,6 @@ permalink: /:title
 title: Te Araroa Southbound
     
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
 
 markdown: CommonMark
