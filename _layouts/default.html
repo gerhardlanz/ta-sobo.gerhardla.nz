@@ -105,8 +105,7 @@
 <body>
     <header>
         <a href="/"><img src="/icon.svg" alt="Orange equilateral triangle pointing downward" width="50" height="50"></a>
-        <br><br>
-        <h1>{% if page.permalink == '/' %}{{ site.title }}{{ page.title }}{% endif %}</h1>
+        <h1 style="padding-top: 2rem">{% if page.permalink == '/' %}{{ site.title }}{{ page.title }}{% endif %}</h1>
     </header>
     <main>{{ content }}</main>
     <footer>
