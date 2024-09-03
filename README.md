@@ -6,6 +6,7 @@ Designed and developed by Gerhard, [ta-sobo.gerhardla.nz](ta-sobo.gerhardla.nz) 
 ## Colophon
 
 * Typeset using the system default sans-serif font
+* Conformant with [WCAG 2.1 level AA](https://wave.webaim.org/report#/ta-sobo.gerhardla.nz)
 * [Carbon footprint](https://www.websitecarbon.com/website/ta-sobo-gerhardla-nz/): `0.00g of CO2`
 * Statically generated with [Jekyll](https://jekyllrb.com)
 * Built in [Visual Studio Code](https://code.visualstudio.com/)
