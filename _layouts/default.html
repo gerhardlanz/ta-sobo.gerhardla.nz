@@ -99,7 +99,7 @@
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="manifest" href="/manifest.webmanifest">
     <link rel="canonical" href="{{ page.url | prepend: site.url }}">
-    <title>{% if page.permalink == '/' %}{{ site.title }}{% else %}{{ page.title }} • {{ site.title }}{% endif %}</title>
+    <title>{% if page.permalink == '/' %}{{ site.title }}{% else %}{{ page.title }} — {{ site.title }}{% endif %}</title>
 </head>
 
 <body>
@@ -110,7 +110,13 @@
     <main>{{ content }}</main>
     <footer>
         <nav aria-label="About this site">
-            <p><small>&copy; 2024 Gerhard • <a href="https://buttondown.com/gerhard/rss">Feed</a> • <a href="https://github.com/gerhardlanz/ta-sobo">Source</a> • No tracking</small></p>
+            <ul style="list-style-type:none;display:flex;margin:0;padding:0">
+                <li style="margin-right: 1rem"><small>&copy; 2024 gerhard</small></li>
+                <li style="margin-right: 1rem"><small><a
+                            href="https://github.com/gerhardlanz/ta-sobo">source</a></small></li>
+                <li style="margin-right: 1rem"><small><a href="#">top</a></small></li>
+                <li style="margin-right: 1rem"><small>No tracking</small></li>
+            </ul>
         </nav>
     </footer>
 </body>
