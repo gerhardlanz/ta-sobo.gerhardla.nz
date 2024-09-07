@@ -4,7 +4,7 @@ Designed and developed by Gerhard, [ta-sobo.gerhardla.nz](ta-sobo.gerhardla.nz) 
 
 ## Licence
 
-The following directories and their contents are licenced under [CC BY-NC-SA 4.0](CC BY-NC-SA 4.0):
+The following directories and their contents are licenced under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/):
 
 ```
 _notes/
