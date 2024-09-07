@@ -12,9 +12,9 @@ Designed and developed by Gerhard, [ta-sobo.gerhardla.nz](ta-sobo.gerhardla.nz) 
 * Built in [Visual Studio Code](https://code.visualstudio.com/)
 * Hosted on [Github Pages](https://pages.github.com)
 
-## Offline
+## Local
 
-To run this website offline, follow these steps:
+To run this website locally, follow these steps:
 
 1. Make sure you have Ruby 2.X.X installed:
     ```
