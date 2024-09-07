@@ -1,43 +1,6 @@
-
 # ta-sobo.gerhardla.nz
 
 Designed and developed by Gerhard, [ta-sobo.gerhardla.nz](ta-sobo.gerhardla.nz) went online in 2024. This subdomain serves as the landing page for  Te Araroa Southbound — a daily newsletter on walking [Te Araroa](https://www.teararoa.org.nz/) (The Long Pathway) in New Zealand. Te Araroa Southbound is time-bound and will operate only while I am on the trail, after which it will be archived.
-
-## Local
-
-To run this website locally, follow these steps:
-
-1. Make sure you have Ruby 2.X.X installed:
-    ```
-    ruby --version
-    ```
-
-2. Install bundler using gem:
-    ```
-    gem install bundler
-    ```
-
-3. Clone the repository to your local machine:
-    ```
-    git clone https://github.com/gerhardlanz/ta-sobo
-    ```
-
-4. Navigate to the project directory:
-    ```
-    cd ta-sobo
-    ```
-
-5. Install Jekyll:
-    ```
-    bundle install  
-    ```
-
-5. Compile and serve the website:
-    ```
-    jekyll serve
-    ```
-
-6. Open your web browser and visit `http://localhost:4000` to view the website.
 
 ## Licence
 
@@ -74,3 +37,39 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+## Local
+
+To run this website locally, follow these steps:
+
+1. Make sure you have Ruby 2.X.X installed:
+    ```
+    ruby --version
+    ```
+
+2. Install bundler using gem:
+    ```
+    gem install bundler
+    ```
+
+3. Clone the repository to your local machine:
+    ```
+    git clone https://github.com/gerhardlanz/ta-sobo
+    ```
+
+4. Navigate to the project directory:
+    ```
+    cd ta-sobo
+    ```
+
+5. Install Jekyll:
+    ```
+    bundle install  
+    ```
+
+5. Compile and serve the website:
+    ```
+    jekyll serve
+    ```
+
+6. Open your web browser and visit `http://localhost:4000` to view the website.
