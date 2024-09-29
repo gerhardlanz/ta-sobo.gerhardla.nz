@@ -85,11 +85,9 @@
             {% endif %}
             <br>
             {% if page.collection == 'notes' or page.collection == 'posts' %}
-            <li><small><a href="https://github.com/gerhardlanz/gerhardla.nz/commits/main/">Published <time>{{ page.date
-                            | date: "%Y-%m-%d" }} ↗</time></a></small></li>
+            <li><small>Published <time>{{ page.date | date: "%Y-%m-%d" }}</time></small></li>
             {% else %}
-            <li><small><a href="https://github.com/gerhardlanz/gerhardla.nz/commits/main/">Updated <time>{{ "now" |
-                            date: "%Y-%m-%d" }} ↗</time></a></small></li>
+            <li><small>Updated <time>{{ "now" | date: "%Y-%m-%d" }}</time></small></li>
             {% endif %}
             <li><small>&copy; {{ site.time | date: '%Y' }}</small></li>
         </ul>
