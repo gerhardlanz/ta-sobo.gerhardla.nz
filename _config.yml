@@ -1,6 +1,7 @@
 markdown: CommonMark
 permalink: /:title
 title: Te Araroa Southbound
+url: https://ta-sobo.gerhardla.nz
     
 plugins:
   - jekyll-sitemap
